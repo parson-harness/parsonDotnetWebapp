@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/toddparson/code/aspwebapp/aspnetcoreapp/aspnetcoreapp.csproj",
+      "projectUniqueName": "/Users/toddparson/code/parsonDotnetWebapp/aspnetcoreapp/aspnetcoreapp.csproj",
       "projectName": "aspnetcoreapp",
-      "projectPath": "/Users/toddparson/code/aspwebapp/aspnetcoreapp/aspnetcoreapp.csproj",
+      "projectPath": "/Users/toddparson/code/parsonDotnetWebapp/aspnetcoreapp/aspnetcoreapp.csproj",
       "packagesPath": "/Users/toddparson/.nuget/packages/",
-      "outputPath": "/Users/toddparson/code/aspwebapp/aspnetcoreapp/obj/",
+      "outputPath": "/Users/toddparson/code/parsonDotnetWebapp/aspnetcoreapp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/toddparson/.nuget/NuGet/NuGet.Config"

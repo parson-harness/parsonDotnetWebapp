@@ -1,0 +1,7 @@
+/Users/toddparson/code/parsonDotnetWebapp/aspnetcoreapp/bin/Release/net7.0/publish/aspnetcoreapp
+/Users/toddparson/code/parsonDotnetWebapp/aspnetcoreapp/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/toddparson/code/parsonDotnetWebapp/aspnetcoreapp/bin/Release/net7.0/publish/appsettings.json
+/Users/toddparson/code/parsonDotnetWebapp/aspnetcoreapp/bin/Release/net7.0/publish/aspnetcoreapp.dll
+/Users/toddparson/code/parsonDotnetWebapp/aspnetcoreapp/bin/Release/net7.0/publish/aspnetcoreapp.deps.json
+/Users/toddparson/code/parsonDotnetWebapp/aspnetcoreapp/bin/Release/net7.0/publish/aspnetcoreapp.runtimeconfig.json
+/Users/toddparson/code/parsonDotnetWebapp/aspnetcoreapp/bin/Release/net7.0/publish/aspnetcoreapp.pdb

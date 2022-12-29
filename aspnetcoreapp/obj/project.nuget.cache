@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QtKCp8uXIqj1+hFX/DqHnsYzPn+nw4Kla5/gywdoiF9c9eVYf3m9lhsDU5G2+zueuJqcpTs2iyuuylrBmyYHCQ==",
+  "dgSpecHash": "GlSZN7xAJh4A13Hrl4bVKsNvpXsPjWpVLLzVAY/b9u+wBRqpxe0zy2CBVWDIKEDkF+GnvmDiohl/XZocvbxQ9Q==",
   "success": true,
-  "projectFilePath": "/Users/toddparson/code/aspwebapp/aspnetcoreapp/aspnetcoreapp.csproj",
+  "projectFilePath": "/Users/toddparson/code/parsonDotnetWebapp/aspnetcoreapp/aspnetcoreapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
